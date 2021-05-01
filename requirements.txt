@@ -1,0 +1,7 @@
+torch 
+torchvision
+tqdm
+Pillow-SIMD
+numpy
+shikit-learn
+matplotlib
